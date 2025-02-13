@@ -1,7 +1,4 @@
-# cicd_devops_Project
-
-
-### CI/CD Pipeline to Deploy to Kubernetes Cluster Using Jenkins
+# CI/CD Pipeline to Deploy to Kubernetes Cluster Using Jenkins
 
 ## STEPS INVOVLED
 
